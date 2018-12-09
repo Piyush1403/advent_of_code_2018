@@ -1,0 +1,1 @@
+This is the [Advent of Code 2018 challenge](https://adventofcode.com/).
