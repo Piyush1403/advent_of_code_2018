@@ -1,11 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Dec  9 14:37:54 2018
-
-@author: piyush
-"""
-
 #part-1
 freqs = []
 
